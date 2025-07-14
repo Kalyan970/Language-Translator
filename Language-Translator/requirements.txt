@@ -1,0 +1,12 @@
+transformers>=4.30.0
+sentencepiece>=0.1.99
+torch>=2.0.0
+tk
+PyPDF2
+fpdf
+PyMuPDF
+tqdm
+sacremoses
+protobuf
+numpy
+datasets

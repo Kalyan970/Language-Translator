@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Deep Learning Translator",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"main.py"
+			],
+			"group": "run",
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}
